@@ -97,6 +97,3 @@ tenarai-catalog-agent/
 
 This project is open-source under MIT license.
 Contributions welcome — open an issue or PR on GitHub.
-
----
-Built with ❤️ by [Tenarai](https://tenarai.ai)
