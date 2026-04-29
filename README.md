@@ -1,9 +1,9 @@
-# Tenarai — HP Laptop Catalog Enrichment Agent
+HP Laptop Catalog Enrichment Agent
 
 An AI agentic POC that transforms raw HP laptop product entries into fully
 enriched catalog listings using Claude claude-sonnet-4-6.
 
-Built by **Tenarai** as an open-source contribution to the Gen AI community.
+as an open-source contribution to the Gen AI community.
 
 ## What it does
 
@@ -73,7 +73,7 @@ curl -X POST http://localhost:8000/enrich \
 ## Project structure
 
 ```
-tenarai-catalog-agent/
+catalog-agent/
 ├── agents/
 │   └── enrichment_agent.py   # Core agentic loop + tool implementations
 ├── data/
